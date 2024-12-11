@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RBg+3G96Ev4=",
+  "dgSpecHash": "FnkgppL89i0=",
   "success": true,
   "projectFilePath": "/Users/shuzhengwang/RiderProjects/NZWalks/NZWalks.API/NZWalks.API.csproj",
   "expectedPackageFiles": [
+    "/Users/shuzhengwang/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/shuzhengwang/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/shuzhengwang/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
     "/Users/shuzhengwang/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
